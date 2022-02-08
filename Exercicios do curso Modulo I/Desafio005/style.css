@@ -1,0 +1,12 @@
+body{
+    font: 15pt  Arial;
+    margin-left: 30px;
+    background-color: white;
+    color: black;
+    font-weight: 500; /* aumentar a intensidade da font */
+}
+ img{
+    justify-content: center; /*justificar o conteudo */
+    vertical-align: middle; /* alianhar verticalmente */
+    align-self: center; /* conteudo se auto alianhar */
+}
